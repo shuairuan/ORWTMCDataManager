@@ -1,0 +1,14 @@
+{
+    "minecraft_win": "%APPDATA%/.minecraft",
+    "desktop_win": "%USERPROFILE%/Desktop",
+    "desktop_linux_root": "/root/Desktop",
+    "userfiles_win": "%USERPROFILE%",
+    "userfiles_linux_root": "/root",
+    "www_default_linux": "/var/www/html",
+    "www_linux": "/www/wwwroot",
+    "documents_win": "%USERPROFILE%/Documents",
+    "videos_win": "%USERPROFILE%/Videos",
+    "photos_win": "%USERPROFILE%/Pictures",
+    "downloads_win": "%USERPROFILE%/Downloads",
+    "documents_linux_root": "/root/Documents"
+}
